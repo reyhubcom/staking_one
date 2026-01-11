@@ -9,16 +9,16 @@
       "url": "/fr/getting-started/introduction/overview/"
     },
     {
-      "name": "Référence",
+      "name": "Blockchain",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Configuration",
+          "name": "Ethereum",
           "url": "/fr/reference/configuration/"
         },
         {
-          "name": "Référence des plugins",
+          "name": "Binance",
           "url": "/fr/reference/plugin/"
         }
       ]
